@@ -1,4 +1,4 @@
-# phpBB Loading Tabscroll Extension
+# phpBB Tabscroll Extension
 
 ## Install
 
