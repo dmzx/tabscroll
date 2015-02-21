@@ -1,0 +1,5 @@
+services:
+    dmzx.tabscroll.listener:
+        class: dmzx\tabscroll\event\listener
+        tags:
+            - { name: event.listener }
