@@ -6,7 +6,7 @@
 * @copyright (c) 2015 by dmzx (www.dmzx-web.net)
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 * French translation by Galixte (http://www.galixte.com)
-* 
+*
 */
 
 /**
